@@ -1,0 +1,23 @@
+.cont{
+   width: 40%;
+   margin: auto;
+}
+
+.card{
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 10px 5px;
+}
+
+.card span{
+    display: block;
+}
+
+.card a{
+    color: black;
+}
+
+.card a:hover{
+    color: blue;
+}
